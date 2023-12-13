@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pramodnaik8887@gmail.com**
 
-- 📄 Know about my experiences (https://bit.ly/3RGsX56)
+- 📄 Know about my experiences https://bit.ly/3RGsX56
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
