@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django, REST API, Python, React**
 
-- 👨‍💻 All of my projects are available at [https://pramodnaik77.github.io/PGN_Portfolio/](https://pramodnaik77.github.io/PGN_Portfolio/)
+- 👨‍💻 All of my projects are available at https://pramodnaik77-cv.netlify.app/
 
 - 📫 How to reach me **pramodnaik8887@gmail.com**
 
