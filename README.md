@@ -1,22 +1,65 @@
-<h1 align="center">Hi 👋, I'm Pramod Ganapati Naik</h1>
-<h3 align="center">A passionate Full Stack developer.</h3>
+## 🚀 Pramod Ganapati Naik
+**Backend Engineer (AI + Distributed Systems)**  
+**FastAPI | Django | Azure | Microservices**
 
-- 🌱 I’m currently learning **Django, REST API, Python, React**
+📍 Bangalore, India  
+✉️ pramodnaik8887@gmail.com  
+🌐 Portfolio: https://pramodnaik77-cv.netlify.app/  
+📄 Resume: https://bit.ly/4l5I4Aq  
 
-- 👨‍💻 All of my projects are available at https://pramodnaik77-cv.netlify.app/
+---
 
-- 📫 How to reach me **pramodnaik8887@gmail.com**
+### About Me
+I build scalable backends and AI-driven systems that reduce engineering time and operational load. I focus on real outcomes — performance, automation, reliability.
 
-- 📄 Know about my experiences [https://bit.ly/pramod-cv](https://bit.ly/4l5I4Aq)
+- Software Engineer I @ **HashedIn by Deloitte** (2024–Present)
+- Backend + AI automation for enterprise systems
+- Previous Intern @ CommScope (Django + React + KPI tooling)
+- I like solving bottlenecks, optimizing systems, and building practical AI platforms.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pramod-ganapati-naik-368460244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramod-ganapati-naik-368460244/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pramodnaik777" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pramodnaik777" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pramodnaik8887?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pramodnaik8887?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pramodnaik777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pramodnaik777/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/pramodnaik8887/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pramodnaik8887/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Highlights
+- Automated Groovy code generation with **Azure OpenAI**, cutting manual effort from ~2 min to seconds.
+- Embeddings pipeline with **95%+ retrieval accuracy** over 1000+ entities.
+- Backend pagination improved dashboard load time **120s → 10s** for 50k+ KPI records.
+- PowerBI automation removed manual reporting for **120+ engineers**.
+- **Excellence Award (2024)** & **Core Value Champion (2025)**.
+
+---
+
+### Projects
+
+| Project | Summary | Tech |
+|--------|---------|------|
+| **FMEA – AI Debugging Assistant** | FastAPI + RabbitMQ logs (<2s), GPT-4o workflows reduce debugging time by **60–70%**. Led 3-member execution. | FastAPI · RabbitMQ · Azure OpenAI · Microservices |
+| **GmailGenie – AI Email Automation** | Processes 10–15 mails/min, OAuth2 + Redis sessions, **70% fewer Gmail API calls**, automated replies. | FastAPI · Gmail API · Redis · Groq |
+| **TraceLess – Secure File Sharing** | 100MB encrypted uploads, one-time URLs, atomic expiry deletion. | FastAPI · Supabase · Encryption |
+| **More Work →** https://pramodnaik77-cv.netlify.app/ |
+
+---
+
+### Tech Stack
+
+**Languages:** Python · JavaScript · Java · C/C++  
+**Backend:** FastAPI · Django · REST · Microservices  
+**Cloud:** Azure · GCP · Docker · Kubernetes  
+**DB:** PostgreSQL · MySQL · Supabase · MongoDB · CosmosDB  
+**Practices:** CI/CD · TDD · Clean Architecture · Git  
+**AI Tools:** OpenAI · LangChain · Autogen  
+
+---
+
+### Profiles
+
+[LinkedIn](https://linkedin.com/in/pramod-ganapati-naik-368460244/) ·  
+[GitHub](https://github.com/pramodnaik8887) ·  
+[LeetCode](https://leetcode.com/pramodnaik777/) ·  
+[CodeChef](https://www.codechef.com/users/pramodnaik777) ·  
+[HackerRank](https://www.hackerrank.com/pramodnaik8887)
+
+---
+
+### What I'm Seeking
+Backend/API roles where I can build scalable systems, automate engineering workflows with AI, and ship production-grade features clearly accountable by metrics.
+
