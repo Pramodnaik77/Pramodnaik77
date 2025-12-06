@@ -167,31 +167,6 @@ Tech: FastAPI · Supabase · Encryption
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/pramodnaik8887">
-    <img src="https://github-readme-stats.vercel.app/api?username=pramodnaik8887&show_icons=true&theme=tokyonight&hide_border=true" alt="Pramod's GitHub stats" height="160" />
-  </a>
-  <a href="https://github.com/pramodnaik8887">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=pramodnaik8887&theme=tokyonight&hide_border=true" alt="Pramod's GitHub streak" height="160" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pramodnaik8887">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodnaik8887&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pramodnaik8887&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Profile Trophies" />
-  </a>
-</p>
-
----
-
 ## 📫 How to Reach Me
 
 - 📧 Email: **[pramodnaik8887@gmail.com](mailto:pramodnaik8887@gmail.com)**
