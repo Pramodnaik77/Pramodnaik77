@@ -1,144 +1,99 @@
-<!-- Hero Section -->
-<h1 align="center">Hi 👋, I'm <strong>Pramod Ganapati Naik</strong></h1>
-<h3 align="center">Backend Engineer · AI & Distributed Systems · SDE-1 @ HashedIn by Deloitte</h3>
+<h1 align="center">🚀 Pramod Ganapati Naik</h1>
+<h3 align="center">Backend Engineer | AI Integration | FastAPI · Django · Supabase · Azure</h3>
 
 <p align="center">
-  <a href="mailto:pramodnaik8887@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pramodnaik8887%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://pramodnaik77-cv.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://bit.ly/4l5I4Aq" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-PDF-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/pramod-ganapati-naik-368460244/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Pramod%20Naik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/pramodnaik8887" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-pramodnaik8887-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.leetcode.com/pramodnaik777/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-pramodnaik777-000000?style=for-the-badge&logo=LeetCode&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/pramodnaik777" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-pramodnaik777-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/pramodnaik8887" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-pramodnaik8887-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/pramodnaik8887/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-pramodnaik8887-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
-  </a>
+  <a href="mailto:pramodnaik8887@gmail.com"><b>Email</b></a> •
+  <a href="https://pramodnaik77-cv.netlify.app/" target="_blank"><b>Portfolio</b></a> •
+  <a href="https://bit.ly/4l5I4Aq" target="_blank"><b>Resume</b></a> •
+  <a href="https://linkedin.com/in/pramod-ganapati-naik-368460244" target="_blank"><b>LinkedIn</b></a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-- **Role:** Software Engineer I @ HashedIn by Deloitte  
-- **Focus:** Backend systems, AI integration, and performance engineering  
-- **Style:** Ship fast, measure impact, clean up the internals (APIs, infra, and observability)  
-- **Currently working with:** FastAPI, Django REST, Azure, microservices, embeddings, and production GenAI
+Backend Engineer focused on building scalable APIs, distributed systems and automation using AI for real business impact.
 
-I care about **reducing engineering time**, not just adding “AI” labels everywhere. Most of what I build either **automates workflows** or **deletes manual effort** for other engineers.
+- Software Engineer I @ **HashedIn by Deloitte**  
+- AI-Automation & Backend Development using FastAPI / Azure  
+- Previously SDE Intern @ **CommScope**  
+- Known for reducing manual workflows, improving performance & shipping end-to-end systems
 
----
-
-## 💼 Experience Snapshot
-
-- 💻 **HashedIn by Deloitte — Software Engineer I (May 2024 – Present)**  
-  - Automated **Groovy code generation** for SAP workflows using Azure OpenAI → cut manual dev time from ~2 minutes to a few seconds.  
-  - Built an **embeddings + cosine similarity pipeline** with ~**95% retrieval accuracy** over 1,000+ entities.  
-  - Delivered multiple **production-grade PoCs**: HashMap transformers, mapping-sheet validators, and log analysis helpers.  
-  - Worked across **Cosmos DB**, **KeyVault**, **Blob Storage** and **App Service** deployments.
-
-- 🛰 **CommScope Networks India — SDE Intern (Jul 2023 – Apr 2024)**  
-  - Reduced dashboard load time from **120s → 10s** using backend pagination for 50k+ KPI records.  
-  - Automated email workflows and schedulers with Django REST, cutting missed tickets by **95%+**.  
-  - Built a **PowerBI + Jira** dashboard used by 120+ engineers to remove manual sprint reporting.
-
-🏅 **Recognition:** Excellence Award (Sep 2024) · Core Value Champion (Jan–May 2025)
+🧠 I care about **impact > features**, automation, debugging efficiency & clean backend design.
 
 ---
 
-## 🧠 What I Work On
+### 🏆 Work Highlights
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>Backend & APIs</h3>
-        <sub>FastAPI · Django · REST · Microservices</sub>
-        <br/>
-        <sub>Pagination, multi-tenant design, auth, rate-limits</sub>
-      </td>
-      <td align="center" width="33%">
-        <h3>AI & Automation</h3>
-        <sub>Azure OpenAI · Groq · LangChain · Embeddings</sub>
-        <br/>
-        <sub>RAG flows, debugging assistants, email automation</sub>
-      </td>
-      <td align="center" width="33%">
-        <h3>Data & Infra</h3>
-        <sub>PostgreSQL · MySQL · Supabase · Cosmos DB</sub>
-        <br/>
-        <sub>Redis caching, schedulers, queues, dashboards</sub>
-      </td>
-    </tr>
-  </table>
-</div>
+- Automated Groovy workflow code-generation using **Azure OpenAI**, cutting dev time from ~2 mins to a few seconds  
+- Embeddings system with **95%+ accuracy** over 1000+ entities  
+- Dashboard load time improved **120s → 10s** using optimized backend pagination  
+- AI debugging assistant reducing troubleshooting time **60–70%**  
+- Internal tools used across teams, reducing manual efforts drastically  
+
+Awards: **Excellence Award (2024) · Core Value Champion (2025)**
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Featured Projects
 
-### 🔧 FMEA – AI Debugging Assistant  
-**Internal Tool · Team Lead (3 members)**  
-FastAPI microservices + RabbitMQ + Azure OpenAI  
-- Real-time log streaming via RabbitMQ with **sub-2s latency**.  
-- GPT-4o prompt flows that reduced debugging time by **60–70%**, generating patches under a minute.  
-- Deterministic multi-file log understanding to reduce hallucinations by ~**40%**.  
+| Project | Impact & Description | Stack |
+| --- | --- | --- |
+| **FMEA – AI Debugging Assistant** | Real-time log analysis (<2s), GPT-based fix generation, 40% hallucination reduction, delivered in 4 weeks with a 3-member team | FastAPI · RabbitMQ · Azure OpenAI |
+| **GmailGenie – AI Email Assistant** | Processes 10–15 mails/min, OAuth2 + Redis caching saving 70% API calls, auto-reply agent | FastAPI · Groq · Gmail API · Redis |
+| **TraceLess – Secure File Sharing** | 100MB encrypted sharing, one-time URLs, atomic deletion | FastAPI · Supabase · Encryption |
 
----
-
-### 📬 GmailGenie – AI Email Assistant  
-**Conversational AI for email automation**  
-Tech: FastAPI · Groq API · Gmail API · Redis  
-- Processes **10–15 emails in < 60 seconds** with smart filtering.  
-- Secure OAuth2 web app flow with Redis-based sessions, supporting 1,000+ retrieved emails.  
-- Background worker + caching layer cutting Gmail API calls by **70%+**.  
-- Auto-replies + chat-style UI improving handling speed by **3–5×**.
-
-> 🔗 (Add your repo link here once public, e.g. `https://github.com/pramodnaik8887/gmailgenie`)
+🔗 Add GitHub links when public to boost credibility.
 
 ---
 
-### 🕵️‍♂️ TraceLess – Secure File Sharing Platform  
-**Encrypted file-sharing with one-time URLs**  
-Tech: FastAPI · Supabase · Encryption  
-- Supports **100 MB** encrypted uploads with one-time access URLs.  
-- Workflow handles encryption, token validation, expiry, and **atomic deletion** after download.  
+## 💻 Tech Stack:
 
-> 🔗 (Add repo link, e.g. `https://github.com/pramodnaik8887/traceless`)
-
----
-
-## 🛠 Tech Stack
-
-**Core Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-
-**Backend & APIs**
-
+### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
-![R]()
+![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=swagger&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge)
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white)
+
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=Mongodb&logoColor=white)
+![CosmosDB](https://img.shields.io/badge/CosmosDB-2E77BB?style=for-the-badge)
+
+### AI Tools
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-A144FF?style=for-the-badge&logo=groq&logoColor=white)
+
+---
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Pramodnaik77&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Pramodnaik77&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pramodnaik77&theme=dark&hide_border=false&layout=compact)
+
+---
+
+### 🧾 Connect With Me
+
+- 📩 **Mail:** `pramodnaik8887@gmail.com`
+- 🔗 **LinkedIn:** https://linkedin.com/in/pramod-ganapati-naik-368460244
+- 🌐 **Portfolio:** https://pramodnaik77-cv.netlify.app/
+
+[![](https://visitcount.itsvg.in/api?id=Pramodnaik77&icon=0&color=0)](https://visitcount.itsvg.in)
